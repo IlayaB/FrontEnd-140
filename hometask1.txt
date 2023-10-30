@@ -1,1 +1,22 @@
-.
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Document</title>
+</head>
+<body>
+  <h1> Student Bio </h1>
+  <hr>
+  <h2> Your Name</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Default_pfp.svg" width="200">
+
+  <p> About info: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam fuga, est voluptatem nam laboriosam aperiam ex magnam doloremque, maiores eos nemo quam totam itaque assumenda, consequuntur nostrum amet nobis error. </p>
+
+  <h3 style="color:blueviolet ;"><u>Contact info </u></h3>
+ <ul>
+    <li>Email: <a href="mailto:ilayabakhtiyarli@gmail.com">ilayabakhtiyarli@gmail.com</a></li>
+    <li>Github: <a href="https://github.com" target="_blank" rel="noopener noreferrer">Github</a></li>
+    <li>Phone number:<a href="tel:+994707501110">+994707501110</a></li>
+ </ul>
+
+</body>
+</html>
